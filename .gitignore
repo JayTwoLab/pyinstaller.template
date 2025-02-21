@@ -1,3 +1,14 @@
+
+# project_root (main source code) 
+
+project_root/main.spec
+
+project_root/dist/
+project_root/dist/*
+
+project_root/build/
+project_root/build/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

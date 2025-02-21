@@ -1,0 +1,10 @@
+
+main.spec
+
+dist/
+dist/*
+
+build/
+build/*
+
+
